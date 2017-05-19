@@ -17,20 +17,19 @@ repositories {
         dirs 'libs'
     }
     
-    maven {
-        url  "http://dl.bintray.com/eyetribe/maven"
-    }
+
 }
 
 dependencies {
     
-    compile project(':mo')
+    //compile project(':mo')
+    compile name: "multimodal-observer", version: '0.0.0'
     
     testCompile group: 'junit', name: 'junit', version: '4.10'
 
     compile name: "docking-frames-core"
     compile name: "docking-frames-common"
-    compile name: 'i18n-1.1.2-SNAPSHOT' 
+
 }
 
 jar {
