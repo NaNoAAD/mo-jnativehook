@@ -1,4 +1,8 @@
-.nb-gradle/
-.gradle/
-libs/*
-/jnativehook-mouse-capture/build/
+.gradle
+.nb-gradle
+
+build/classes
+build/generated
+build/resources
+build/tmp
+*.class
