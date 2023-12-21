@@ -1,3 +1,11 @@
+.\gradle\wrapper\gradle-wrapper.jar
+16/12/2023 23:45:44
+.\gradle\wrapper\gradle-wrapper.properties
+16/12/2023 23:45:44
+.\gradlew
+16/12/2023 23:45:44
+.\gradlew.bat
+16/12/2023 23:45:44
 .\libs\docking-frames-common.jar
 16/12/2023 00:55:22
 .\libs\docking-frames-core.jar
