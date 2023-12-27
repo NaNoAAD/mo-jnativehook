@@ -1,6 +1,7 @@
 package mo.mouse.visualization;
 
 public class MouseEvent {
+    
 
     int x, y, clickCount, button;
     long time;

@@ -14,6 +14,7 @@ import mo.visualization.VisualizableConfiguration;
 public class KBVisConfig implements VisualizableConfiguration {
 
     
+    
     private final String[] creators = {"mo.keyboard.capture.KeyboardRecorder"};
     
     private List<File> files;

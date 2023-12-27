@@ -18,6 +18,7 @@ import mo.organization.ProjectOrganization;
 
 public class MouseCaptureConfigurationDialog extends JDialog implements DocumentListener {
 
+    
     JLabel errorLabel;
     JTextField nameField;
     JButton accept;

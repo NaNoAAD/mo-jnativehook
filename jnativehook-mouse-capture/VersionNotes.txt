@@ -1,4 +1,4 @@
-Plugin jnativehook-keyboard-capture actualizado!
+Plugin jnativehook-mouse-capture actualizado!
 
 -Este nueva actualizacion a este plugin ahora incluye su primer repositorio
 -Se agrego el .jar de multimodal observer para que pueda hacerse build en cualquier lugar gracias al wrapper gradle que tambien se incluye
